@@ -1,3 +1,3 @@
 class Master{
-
+      System.out.println("add a new feature");
 }
