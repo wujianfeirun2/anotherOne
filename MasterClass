@@ -1,3 +1,4 @@
 class Master{
       System.out.println("add a new feature");
+      System.out.println("feature and use well,add it to master");
 }
